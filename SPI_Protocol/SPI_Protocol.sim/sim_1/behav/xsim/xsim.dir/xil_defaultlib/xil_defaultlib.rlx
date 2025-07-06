@@ -1,0 +1,9 @@
+0.7
+2020.2
+May 22 2025
+00:13:55
+C:/Users/ASUS/OneDrive/Documents/SPI_Protocol/SPI_Protocol.sim/sim_1/behav/xsim/glbl.v,1741209010,verilog,,,,glbl,,uvm,,,,,,
+C:/Users/ASUS/OneDrive/Documents/SPI_Protocol/SPI_Protocol.srcs/sim_1/new/tb.sv,1751797099,systemVerilog,,,,tb,,uvm,../../../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/ASUS/OneDrive/Documents/SPI_Protocol/SPI_Protocol.srcs/sources_1/new/fsm_spi.sv,1751785128,systemVerilog,,C:/Users/ASUS/OneDrive/Documents/SPI_Protocol/SPI_Protocol.srcs/sources_1/new/spi_slave.sv,,fsm_spi,,uvm,../../../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/ASUS/OneDrive/Documents/SPI_Protocol/SPI_Protocol.srcs/sources_1/new/spi_slave.sv,1751797011,systemVerilog,,C:/Users/ASUS/OneDrive/Documents/SPI_Protocol/SPI_Protocol.srcs/sources_1/new/top.sv,,spi_slave,,uvm,../../../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/ASUS/OneDrive/Documents/SPI_Protocol/SPI_Protocol.srcs/sources_1/new/top.sv,1751797038,systemVerilog,,C:/Users/ASUS/OneDrive/Documents/SPI_Protocol/SPI_Protocol.srcs/sim_1/new/tb.sv,,top,,uvm,../../../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
